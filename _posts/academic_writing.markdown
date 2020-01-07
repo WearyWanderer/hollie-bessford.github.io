@@ -1,9 +1,9 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Academic Writing
+subtitle: Papers & Critical Analysis
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2020-01-05
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
