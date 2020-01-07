@@ -1,9 +1,9 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Creative Writing
+subtitle: Short Stories & Wordplay
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-01-05
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
