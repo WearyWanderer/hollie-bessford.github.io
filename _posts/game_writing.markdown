@@ -1,8 +1,8 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Game Writing
+subtitle: Interactive Narrative & Immersive Worlds
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
