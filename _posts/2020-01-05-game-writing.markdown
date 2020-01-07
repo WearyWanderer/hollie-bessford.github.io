@@ -3,7 +3,7 @@ title: Game Writing
 subtitle: Interactive Narrative & Immersive Worlds
 layout: default
 modal-id: 2
-date: 2014-07-16
+date: 2020-01-05
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
