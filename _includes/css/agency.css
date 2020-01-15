@@ -457,7 +457,7 @@ section h3.skill-subheading {
     content: "";
     position: absolute;
     top: 0;
-    bottom: 0;
+    bottom: 20%;
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
