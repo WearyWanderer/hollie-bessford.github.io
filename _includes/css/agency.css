@@ -23,6 +23,10 @@ p {
     line-height: 1.75;
 }
 
+p.medium {
+     font-size: 15px;
+}
+
 p.large {
     font-size: 16px;
 }
@@ -484,7 +488,7 @@ section h3.skill-subheading {
     float: right;
     position: relative;
     width: 100%;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 70px;
     text-align: left;
 }
 
