@@ -488,7 +488,7 @@ section h3.skill-subheading {
     float: right;
     position: relative;
     width: 100%;
-    padding: 0 20px 0 70px;
+    padding: 0 20px 0 15%;
     text-align: left;
 }
 
@@ -528,7 +528,7 @@ section h3.skill-subheading {
 
 .timeline>li.timeline-inverted>.timeline-panel {
     float: right;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 15%;
     text-align: left;
 }
 
@@ -633,7 +633,7 @@ section h3.skill-subheading {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0 20px 20px 70px;
     }
 
     .timeline>li .timeline-image {
@@ -647,7 +647,7 @@ section h3.skill-subheading {
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
-        padding: 0 100px 20px 20px;
+        padding: 0 70px 20px 20px;
     }
 }
 
