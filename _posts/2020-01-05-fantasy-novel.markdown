@@ -1,5 +1,5 @@
 ---
-title: Fantasy Novel Writing
+title: Fantasy Novel
 subtitle: 
 layout: default
 modal-id: 1
