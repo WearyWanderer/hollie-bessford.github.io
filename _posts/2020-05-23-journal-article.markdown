@@ -2,7 +2,7 @@
 title: Journal Article
 subtitle: 
 layout: default
-modal-id: 0
+modal-id: 1
 date: 2020-05-23
 img: dreams.png
 thumbnail: dreams-thumbnail.png
