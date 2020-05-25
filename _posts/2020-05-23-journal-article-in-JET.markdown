@@ -1,5 +1,5 @@
 ---
-title: Journal Article in JET (Journal of English at Teesside)
+title: Journal Article in JET
 subtitle: Beckett, You’ll be Late: Existential Postmodernism in the Video Game Beckett 
 layout: default
 modal-id: 1
