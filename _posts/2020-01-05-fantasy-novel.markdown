@@ -1,5 +1,5 @@
 ---
-title: Fantasy Novel - Earth and Smoke
+title: Fantasy Novel 
 subtitle: 
 layout: default
 modal-id: 0
