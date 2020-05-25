@@ -1,5 +1,5 @@
 ---
-title: Fantasy Novel
+title: Fantasy Novel - Earth and Smoke
 subtitle: 
 layout: default
 modal-id: 0
@@ -10,6 +10,7 @@ alt: image-alt
 project-date: 2019-2020
 tags: portfolioproject
 portfolioroot: 1
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: An in-progress novel that began out of an interest in Slavic mythologies and folklore, Earth and Smoke follows characters Ilyria and Wilk travelling through the fabled Zuriobor forest. An unlikely friendship is formed between the two as they find themselves exiled from the safe haven town Rasnov in the centre of the unforgiving forest region infested with monsters. 
+Add the official WorldAnvil site here.
 
 ---
