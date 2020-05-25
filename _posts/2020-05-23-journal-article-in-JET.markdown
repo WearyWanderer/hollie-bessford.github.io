@@ -1,6 +1,6 @@
 ---
 title: Journal Article in JET
-subtitle: Beckett, You’ll be Late: Existential Postmodernism in the Video Game Beckett 
+subtitle:
 layout: default
 modal-id: 1
 date: 2020-05-23
