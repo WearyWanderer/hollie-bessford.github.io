@@ -4,8 +4,8 @@ subtitle: Short Stories & Wordplay
 layout: default
 modal-id: 1
 date: 2020-01-05
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Creative_Writing_Image.png
+thumbnail: Creative_Writing_Image_thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

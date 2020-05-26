@@ -4,8 +4,8 @@ subtitle: Papers & Critical Analysis
 layout: default
 modal-id: 3
 date: 2020-01-05
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: Academic_Writing_Image.png
+thumbnail: Academic_Writing_Image_thumb.png
 alt: image-alt
 project-date: 2017-Present
 client: Teesside University

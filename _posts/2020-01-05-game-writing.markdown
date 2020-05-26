@@ -4,8 +4,8 @@ subtitle: Interactive Narrative & Immersive Worlds
 layout: default
 modal-id: 2
 date: 2020-01-05
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: Game_Writing_Tab_Art_.png
+thumbnail: Game_Writing_Tab_Art_thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
