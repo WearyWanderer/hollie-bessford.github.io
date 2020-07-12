@@ -21,13 +21,13 @@
 							<a href="#page-top"></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about" data-dismiss="modal" data-target=".modal">About</a>
+							<a class="page-scroll" href="#about" data-toggle="modal" data-target=".modal">About</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#portfolio" data-dismiss="modal" data-target=".modal">Portfolio</a>
+							<a class="page-scroll" href="#portfolio" data-toggle="modal" data-target=".modal">Portfolio</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#contact" data-dismiss="modal" data-target=".modal">Contact</a>
+							<a class="page-scroll" href="#contact" data-toggle="modal" data-target=".modal">Contact</a>
 						</li>
 					</ul>
 				</div>
@@ -36,7 +36,7 @@
 			<!-- /.container-fluid -->
 		</nav>
         <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal" data-target="#portfolioModal{{ post.modal-id }}">
+            <div class="close-modal" data-toggle="modal" data-target="#portfolioModal{{ post.modal-id }}">
                 <div class="lr">
                     <div class="rl">
                     </div>
@@ -82,7 +82,7 @@
 				{% endfor %}
 				</div>
 				</section>
-                            <button type="button" class="btn btn-default" data-dismiss="modal" data-target="#portfolioModal{{ post.modal-id }}"><i class="fa fa-times"></i> Close</button>
+                            <button type="button" class="btn btn-default" data-toggle="modal" data-target="#portfolioModal{{ post.modal-id }}"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
