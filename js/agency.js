@@ -28,6 +28,13 @@ $('.navbar-collapse ul li a').click(function() {
 $('div.modal').on('show.bs.modal', function() {
 	var modal = this;
 	var hash = modal.id;
+	
+	var modalElements = document.getElementsByClassName('modal');
+	
+	for (var i=0, len=modalElements.length|0; i<len; i=i+1|0) {
+		$('#' + modalElements[i].id).modal('hide');
+	}
+	
 	window.location.hash = hash;
 	window.onhashchange = function() {
 		if (!location.hash){
