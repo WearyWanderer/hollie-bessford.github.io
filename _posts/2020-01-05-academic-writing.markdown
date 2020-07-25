@@ -9,9 +9,12 @@ thumbnail: Academic_Writing_Image_thumb.png
 alt: image-alt
 project-date: 2017-Present
 client: Teesside University
+clienturl: https://www.tees.ac.uk/
 category: Web Development
 tags: portfolioroot
 portfoliorootid: 3
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Achieved a First Class in BA English Studies with Creative Writing.
 
 ---
+
+
