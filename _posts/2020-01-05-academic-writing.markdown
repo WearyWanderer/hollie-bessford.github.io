@@ -1,6 +1,6 @@
 ---
-title: Academic Writing
-subtitle: Papers & Critical Analysis
+title: Articles 
+subtitle: 
 layout: default
 modal-id: 3
 date: 2020-01-05

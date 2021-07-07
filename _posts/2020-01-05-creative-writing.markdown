@@ -1,6 +1,6 @@
 ---
-title: Creative Writing
-subtitle: Short Stories & Wordplay
+title: Books
+subtitle: 
 layout: default
 modal-id: 1
 date: 2020-01-05
